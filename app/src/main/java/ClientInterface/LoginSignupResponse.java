@@ -1,0 +1,4 @@
+package ClientInterface;
+
+class LoginSignupResponse {
+}
